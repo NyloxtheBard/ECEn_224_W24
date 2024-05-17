@@ -1,0 +1,23 @@
+[01;34m.[0m
+├── [01;34m.admin[0m
+│   └── [01;32mrunme.sh[0m
+├── [01;34mmov[0m
+│   ├── congratulations.txt
+│   └── [01;34m.whats_this[0m
+│       ├── [01;34mbanana[0m
+│       │   └── pineapple
+│       └── sneaky.txt
+├── README.txt
+├── [01;32mrunme.sh[0m
+├── [01;34mscripts[0m
+│   ├── [01;34m.environs[0m
+│   │   ├── instructions.txt
+│   │   ├── [01;32mscript.sh[0m
+│   │   ├── var_out_1.txt
+│   │   ├── var_out_2.txt
+│   │   └── var_tot_out.txt
+│   └── [01;32mrunme.sh[0m
+├── solution.txt
+└── tree.txt
+
+7 directories, 14 files
