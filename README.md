@@ -19,4 +19,4 @@ This is the order of the labs that I did
 10. Threaded Client
 11. Doorbell
 
-Also included is the famous Binary Bomb from Carnegie-Mellon University and the Attack Programming Assignment folders, and the text file solution for the bomb assigmnent. 
+Also included is the famous Binary Bomb from Carnegie-Mellon University and the Attack Programming Assignment folders, and the text file solution for the bomb assigment, including all 6 phases and the secret 7th phase. 
